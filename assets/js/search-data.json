@@ -1,0 +1,751 @@
+{"0": {
+    "doc": "Ativação",
+    "title": "Ativação",
+    "content": "Siga as instruções abaixo para ativar o sistema. ",
+    "url": "/docs/activation/",
+    
+    "relUrl": "/docs/activation/"
+  },"1": {
+    "doc": "Ativação",
+    "title": "Sumário",
+    "content": ". | Acessando o Petrofolio | Obtendo o Código de Instalação | Inserindo o Código de Ativação | Informações Importantes | . ",
+    "url": "/docs/activation/#sum%C3%A1rio",
+    
+    "relUrl": "/docs/activation/#sumário"
+  },"2": {
+    "doc": "Ativação",
+    "title": "Acessando o Petrofolio",
+    "content": ". | Abra o Microsoft Excel após concluir a instalação do suplemento Petrofolio. | O Petrofolio aparecerá como uma nova aba na faixa de opções (Ribbon) do Excel. | . ",
+    "url": "/docs/activation/#acessando-o-petrofolio",
+    
+    "relUrl": "/docs/activation/#acessando-o-petrofolio"
+  },"3": {
+    "doc": "Ativação",
+    "title": "Obtendo o Código de Instalação",
+    "content": "Para ativar o Petrofolio, primeiro obtenha o Código de Instalação seguindo os passos abaixo: . | Clique na aba Petrofolio na faixa de opções do Excel. | Clique no botão Início e selecione a opção Conta…. | Na janela que será exibida, copie o Código de Instalação: . | Selecione o conteúdo da caixa de texto. | Pressione Ctrl+C para copiar. | . | Abra seu e-mail e cole o código no corpo da mensagem usando Ctrl+V. | Envie um e-mail para suporte@petrofolio.net solicitando o Código de Ativação. | Aguarde o retorno da nossa equipe de suporte com o Código de Ativação. | . ",
+    "url": "/docs/activation/#obtendo-o-c%C3%B3digo-de-instala%C3%A7%C3%A3o",
+    
+    "relUrl": "/docs/activation/#obtendo-o-código-de-instalação"
+  },"4": {
+    "doc": "Ativação",
+    "title": "Inserindo o Código de Ativação",
+    "content": "Após receber o Código de Ativação, siga os passos para concluir a ativação: . | No Excel, clique na aba Petrofolio. | Clique novamente no botão Início e selecione Conta…. | Na janela exibida, cole o Código de Ativação recebido no e-mail: . | Pressione Ctrl+V para colar o código na caixa de texto. | . | Clique no botão Ativar para concluir o processo. | Uma mensagem será exibida confirmando a ativação bem-sucedida. | A seção Status mostrará o período de ativação. | Feche a janela. O Petrofolio estará pronto para uso. | . ",
+    "url": "/docs/activation/#inserindo-o-c%C3%B3digo-de-ativa%C3%A7%C3%A3o",
+    
+    "relUrl": "/docs/activation/#inserindo-o-código-de-ativação"
+  },"5": {
+    "doc": "Ativação",
+    "title": "Informações Importantes",
+    "content": ". | O Código de Ativação possui um prazo de validade. Trinta dias antes do vencimento, o sistema exibirá um alerta. O usuário deverá solicitar um novo código para continuar utilizando a ferramenta. | Sempre que uma nova versão do sistema for instalada, será necessário solicitar um novo Código de Ativação, pois a atualização gerará um novo Código de Instalação. | Se encontrar problemas na ativação ou tiver dúvidas, entre em contato com a equipe de suporte pelo e-mail suporte@petrofolio.net. Estamos à disposição para ajudar! | . ",
+    "url": "/docs/activation/#informa%C3%A7%C3%B5es-importantes",
+    
+    "relUrl": "/docs/activation/#informações-importantes"
+  },"6": {
+    "doc": "Análise Complementar",
+    "title": "Responsive modifiers",
+    "content": "Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes. | Modifier | Screen size | . | (none) | All screens until the next modifier | . | xs | 320px (20rem) and up | . | sm | 500px (31.25rem) and up | . | md | 740px (46.25rem) and up | . | lg | 1120px (70rem) and up | . | xl | 1400px (87.5rem) and up | . ",
+    "url": "/docs/tutorials/economic-analysis/complementary-analysis/#responsive-modifiers",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/complementary-analysis/#responsive-modifiers"
+  },"7": {
+    "doc": "Análise Complementar",
+    "title": "Análise Complementar",
+    "content": " ",
+    "url": "/docs/tutorials/economic-analysis/complementary-analysis/",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/complementary-analysis/"
+  },"8": {
+    "doc": "Criar um Bloco",
+    "title": "Criar um Bloco",
+    "content": "Entenda como criar um novo Bloco de E&amp;P no Petrofolio e configurar o regime fiscal adequado. ",
+    "url": "/docs/tutorials/portfolio-structure/create-block/",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-block/"
+  },"9": {
+    "doc": "Criar um Bloco",
+    "title": "Sumário",
+    "content": ". | O que é um Bloco de E&amp;P? | Como Criar um Novo Bloco? | Formulário: Identificação do Bloco | Formulários de Contratos por Regime Fiscal . | Contrato de Concessão | Contrato de Cessão Onerosa | Contrato de Partilha de Produção | . | Formulário: Participação do Bloco | Formulário: Relatórios das Análises Econômicas | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-block/#sum%C3%A1rio",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-block/#sumário"
+  },"10": {
+    "doc": "Criar um Bloco",
+    "title": "O que é um Bloco de E&amp;P?",
+    "content": "No Petrofolio, um Bloco de E&amp;P é um componente que representa um contrato é uma área geográfica delimitada em terra ou no mar, onde uma empresa ou consórcio recebe autorização para realizar atividades de exploração e produção de petróleo e gás. Esses blocos são concedidos por meio de licitações e sob determinado regime fiscal. ",
+    "url": "/docs/tutorials/portfolio-structure/create-block/#o-que-%C3%A9-um-bloco-de-ep",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-block/#o-que-é-um-bloco-de-ep"
+  },"11": {
+    "doc": "Criar um Bloco",
+    "title": "Como Criar um Novo Bloco?",
+    "content": "Para criar um novo Bloco no Petrofolio, siga um dos métodos abaixo: . | Através do menu contextual: . | Clique com o botão direito do mouse no componente Portfólio ou Subportfólio, localizado na janela Estrutura do Portfólio (lateral esquerda da tela). | Selecione a opção “Novo Bloco…“. | . | Através da barra de ferramentas: . | Na barra de ferramentas, clique em “Customizar” e selecione “Novo Bloco…“. | . | . Após a seleção, a seguinte janela será exibida para configurar o Bloco: . | Selecione o tipo de regime fiscal aplicável. | Opte por incluir um Campo com múltiplos Projetos, se necessário. | . Para cada Bloco, Campo e Projeto criados, será gerada uma planilha correspondente no Petrofolio, contendo os formulários apropriados. ",
+    "url": "/docs/tutorials/portfolio-structure/create-block/#como-criar-um-novo-bloco",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-block/#como-criar-um-novo-bloco"
+  },"12": {
+    "doc": "Criar um Bloco",
+    "title": "Formulário: Identificação do Bloco",
+    "content": "Coleta o nome e a descrição do Bloco de E&amp;P. ",
+    "url": "/docs/tutorials/portfolio-structure/create-block/#formul%C3%A1rio-identifica%C3%A7%C3%A3o-do-bloco",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-block/#formulário-identificação-do-bloco"
+  },"13": {
+    "doc": "Criar um Bloco",
+    "title": "Formulários de Contratos por Regime Fiscal",
+    "content": "O formulário de contrato varia de acordo com o regime fiscal do Bloco: . Contrato de Concessão . Exibido quando o Bloco segue o regime de Concessão. Contrato de Cessão Onerosa . Exibido quando o Bloco segue o regime de Cessão Onerosa. Contrato de Partilha de Produção . Exibido quando o Bloco segue o regime de Partilha de Produção. O sistema permite especificar a rodada de licitação do Bloco, utilizando um código alfanumérico. Atualmente, os códigos disponíveis são: . | R1: 1ª Rodada (EDITAL 03/09/2013) | R2: 2ª Rodada (EDITAL 23/08/2013) | R3: 3ª Rodada (EDITAL 23/08/2013) | R4: 4ª Rodada (EDITAL 05/04/2018) | R5: 5ª Rodada (EDITAL 10/08/2018) | R6: 6ª Rodada (EDITAL 16/09/2019) | ECO1: 1ª Rodada ECO (Excedente da Cessão Onerosa, EDITAL 06/09/2019) | ECO2: 2ª Rodada ECO (Excedente da Cessão Onerosa, EDITAL 15/10/2021) | OPP1: 1º Ciclo OPP (Oferta Permanente - Partilha, EDITAL 28/07/2022) | OPP2: 2º Ciclo OPP (Oferta Permanente - Partilha, EDITAL 17/08/2023) | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-block/#formul%C3%A1rios-de-contratos-por-regime-fiscal",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-block/#formulários-de-contratos-por-regime-fiscal"
+  },"14": {
+    "doc": "Criar um Bloco",
+    "title": "Formulário: Participação do Bloco",
+    "content": "Independente do regime fiscal, este formulário permite definir o percentual de working interest, utilizado na análise de parceria. ",
+    "url": "/docs/tutorials/portfolio-structure/create-block/#formul%C3%A1rio-participa%C3%A7%C3%A3o-do-bloco",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-block/#formulário-participação-do-bloco"
+  },"15": {
+    "doc": "Criar um Bloco",
+    "title": "Formulário: Relatórios das Análises Econômicas",
+    "content": "Estes formulários apresentam relatórios e indicadores econômicos comuns a todos os elementos do Portfólio (Bloco, Campo, Projeto etc.). A seguir, alguns exemplos: . | Relatório de Receitas . | Relatório de Investimentos (CAPEX) . | Relatório de Custos Operacionais (OPEX) . | Relatório de Outras Despesas . | Fluxo de Caixa Nominal . | Indicadores do Fluxo de Caixa Nominal . | Indicadores de Rentabilidade . | Indicadores de Retorno . | Indicadores do Custo Unitário de Produção do Brent . | Indicadores do Custo Unitário de Produção do Óleo . | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-block/#formul%C3%A1rio-relat%C3%B3rios-das-an%C3%A1lises-econ%C3%B4micas",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-block/#formulário-relatórios-das-análises-econômicas"
+  },"16": {
+    "doc": "Criar um Campo",
+    "title": "Criar um Campo",
+    "content": "Entenda como criar um novo Campo de E&amp;P no Petrofolio. ",
+    "url": "/docs/tutorials/portfolio-structure/create-field/",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-field/"
+  },"17": {
+    "doc": "Criar um Campo",
+    "title": "Sumário",
+    "content": ". | O que é um Campo de E&amp;P? | Como Criar um Novo Campo? | Formulário: Identificação do Campo | Formulário: Informações do Campo | Formulário: Participação no Campo | Formulário: Relatórios das Análises Econômicas | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-field/#sum%C3%A1rio",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-field/#sumário"
+  },"18": {
+    "doc": "Criar um Campo",
+    "title": "O que é um Campo de E&amp;P?",
+    "content": "No Petrofolio, um Campo de E&amp;P é uma área onde foi comprovada a existência de petróleo e/ou gás natural. Ele pode ser composto por um ou mais reservatórios de hidrocarbonetos. Além disso, esse campo pode ser produzido por um ou mais sistemas de produção (projetos de E&amp;P). ",
+    "url": "/docs/tutorials/portfolio-structure/create-field/#o-que-%C3%A9-um-campo-de-ep",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-field/#o-que-é-um-campo-de-ep"
+  },"19": {
+    "doc": "Criar um Campo",
+    "title": "Como Criar um Novo Campo?",
+    "content": "Para criar um novo campo no Petrofolio, siga um dos métodos abaixo: . | Através do menu contextual: . | Clique com o botão direito do mouse em um Bloco, localizado na janela Estrutura do Portfólio (lateral esquerda da tela). | Selecione a opção “Novo Campo…“. | . | Através da barra de ferramentas: . | Na barra de ferramentas, clique em “Customizar” e selecione “Novo Campo…“. | . | . Após a seleção, a seguinte janela será exibida para configurar o campo: . | Inclua um projeto do tipo Sistema de Produção Antecipada, se aplicável. | Inclua um ou múltiplos projetos do tipo Sistema de Produção Definitiva. | . Para cada campo e projeto criados, será gerada uma planilha correspondente no Petrofolio, contendo os formulários apropriados. ",
+    "url": "/docs/tutorials/portfolio-structure/create-field/#como-criar-um-novo-campo",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-field/#como-criar-um-novo-campo"
+  },"20": {
+    "doc": "Criar um Campo",
+    "title": "Formulário: Identificação do Campo",
+    "content": "Coleta o nome e a descrição do Campo de E&amp;P. ",
+    "url": "/docs/tutorials/portfolio-structure/create-field/#formul%C3%A1rio-identifica%C3%A7%C3%A3o-do-campo",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-field/#formulário-identificação-do-campo"
+  },"21": {
+    "doc": "Criar um Campo",
+    "title": "Formulário: Informações do Campo",
+    "content": "Este formulário coleta, além da data de declaração da comercialidade do campo, a área do campo na fase de desenvolvimento e produção. ",
+    "url": "/docs/tutorials/portfolio-structure/create-field/#formul%C3%A1rio-informa%C3%A7%C3%B5es-do-campo",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-field/#formulário-informações-do-campo"
+  },"22": {
+    "doc": "Criar um Campo",
+    "title": "Formulário: Participação no Campo",
+    "content": "No caso de Acordos de Individualização da Produção (AIP), o formulário de Participação no Campo permite definir o percentual da jazida compartilhada. Esse percentual é aplicado na análise de parceria. ",
+    "url": "/docs/tutorials/portfolio-structure/create-field/#formul%C3%A1rio-participa%C3%A7%C3%A3o-no-campo",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-field/#formulário-participação-no-campo"
+  },"23": {
+    "doc": "Criar um Campo",
+    "title": "Formulário: Relatórios das Análises Econômicas",
+    "content": "Estes formulários apresentam relatórios e indicadores econômicos comuns a todos os elementos do Portfólio (Bloco, Campo, Projeto etc.). A seguir, alguns exemplos: . | Relatório de Receitas . | Relatório de Investimentos (CAPEX) . | Relatório de Custos Operacionais (OPEX) . | Relatório de Outras Despesas . | Fluxo de Caixa Nominal . | Indicadores do Fluxo de Caixa Nominal . | Indicadores de Rentabilidade . | Indicadores de Retorno . | Indicadores do Custo Unitário de Produção do Brent . | Indicadores do Custo Unitário de Produção do Óleo . | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-field/#formul%C3%A1rio-relat%C3%B3rios-das-an%C3%A1lises-econ%C3%B4micas",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-field/#formulário-relatórios-das-análises-econômicas"
+  },"24": {
+    "doc": "Criar um Portfólio",
+    "title": "Criar um Portfólio",
+    "content": "Entenda como criar e estruturar um portfólio de E&amp;P. ",
+    "url": "/docs/tutorials/portfolio-structure/create-portfolio/",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-portfolio/"
+  },"25": {
+    "doc": "Criar um Portfólio",
+    "title": "Sumário",
+    "content": ". | O que é um Portfólio de E&amp;P? | Como Criar um Novo Portfólio? | Como os Formulários são Organizados? | Formulário: Identificação do Portfólio | Formulário: Premissas do Fluxo de Caixa | Formulário: Premissas Tributárias | Formulário: Premissas Macroeconômicas | Formulário: Relatórios das Análises Econômicas | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-portfolio/#sum%C3%A1rio",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-portfolio/#sumário"
+  },"26": {
+    "doc": "Criar um Portfólio",
+    "title": "O que é um Portfólio de E&amp;P?",
+    "content": "No Petrofolio, um portfólio de E&amp;P é uma estrutura hierárquica para organizar e gerenciar projetos de exploração e produção, composta por subportfólios, blocos, campos e programas: . 1. Subportfólio (opcional): . | Permite agrupar blocos com base em divisões específicas, como onshore ou offshore. | Consolida os resultados totais de todos os blocos associados ao subportfólio. | . 2. Bloco (obrigatório): . | É o componente principal de organização dentro de um portfólio. | Representa unidades geográficas ou contratuais e pode conter projetos como: . | PEM (Projeto Exploratório Mínimo): Projetos obrigatórios para cumprir requisitos contratuais. | ATEX (Atividades Exploratórias Adicionais): Projetos adicionais para expandir o potencial de exploração. | . | Cada bloco pode incluir múltiplos campos associados. | . 3. Campo (obrigatório): . | Representa uma área específica de produção ou desenvolvimento dentro de um bloco. | Contém projetos relacionados a sistemas de produção, como: . | Sistemas de Produção Antecipada: Projetos temporários para iniciar a produção mais rapidamente. | Sistemas de Produção Definitiva: Projetos para operações de longo prazo. | . | . 4. Programa (opcional): . | Um componente adicional usado para consolidar os resultados de outros elementos do portfólio. | É particularmente útil para projetos sujeitos a diferentes regimes fiscais. Por exemplo, um único campo pode conter dois projetos distintos sob diferentes regimes fiscais, e o programa permite integrar os resultados de ambos. | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-portfolio/#o-que-%C3%A9-um-portf%C3%B3lio-de-ep",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-portfolio/#o-que-é-um-portfólio-de-ep"
+  },"27": {
+    "doc": "Criar um Portfólio",
+    "title": "Como Criar um Novo Portfólio?",
+    "content": "Para criar um novo portfólio no Petrofolio, siga os passos abaixo: . | Acesse a aba Petrofolio no sistema. | Clique no ícone “Início” para acessar as opções disponíveis. | Escolha a opção “Novo Portfólio…“ no menu. | Selecione a parametrização desejada para o portfólio. | Clique em “Ok”. O sistema gerará automaticamente uma planilha com formulários para entrada e saída de dados. | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-portfolio/#como-criar-um-novo-portf%C3%B3lio",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-portfolio/#como-criar-um-novo-portfólio"
+  },"28": {
+    "doc": "Criar um Portfólio",
+    "title": "Como os Formulários são Organizados?",
+    "content": "Após a criação de um portfólio, o Petrofolio organiza as informações em um conjunto de formulários, seguindo um padrão de cores para facilitar a identificação e a interpretação dos dados, tornando o processo de tomada de decisão mais eficiente. | Verde: Representa os dados de entrada, que são as informações fornecidas pelo usuário. | Vermelho: Mostra relatórios gerados pela análise determinística. | Azul: Apresenta os indicadores econômicos gerados pela análise determinística. | Laranja: Exibe relatórios e indicadores econômicos gerados pela análise de sensibilidade. | Roxo: Contém os relatórios e indicadores econômicos gerados pela análise probabilística. | . A seguir, são apresentados os formulários específicos do portfólio e os padronizados, compartilhados entre seus componentes (Bloco, Campo, Projeto etc.). ",
+    "url": "/docs/tutorials/portfolio-structure/create-portfolio/#como-os-formul%C3%A1rios-s%C3%A3o-organizados",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-portfolio/#como-os-formulários-são-organizados"
+  },"29": {
+    "doc": "Criar um Portfólio",
+    "title": "Formulário: Identificação do Portfólio",
+    "content": ". | Este formulário coleta o nome e a descrição do Portfólio de E&amp;P. | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-portfolio/#formul%C3%A1rio-identifica%C3%A7%C3%A3o-do-portf%C3%B3lio",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-portfolio/#formulário-identificação-do-portfólio"
+  },"30": {
+    "doc": "Criar um Portfólio",
+    "title": "Formulário: Premissas do Fluxo de Caixa",
+    "content": ". | Este formulário coleta as premissas do fluxo de caixa, como o ano de início do fluxo, a taxa mínima de atratividade (TMA) e a data de avaliação ou data-base de desconto. | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-portfolio/#formul%C3%A1rio-premissas-do-fluxo-de-caixa",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-portfolio/#formulário-premissas-do-fluxo-de-caixa"
+  },"31": {
+    "doc": "Criar um Portfólio",
+    "title": "Formulário: Premissas Tributárias",
+    "content": ". | Este formulário coleta as premissas tributárias, como a alíquota do imposto de renda (IRPJ) e a alíquota da contribuição social sobre o lucro líquido (CSLL). | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-portfolio/#formul%C3%A1rio-premissas-tribut%C3%A1rias",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-portfolio/#formulário-premissas-tributárias"
+  },"32": {
+    "doc": "Criar um Portfólio",
+    "title": "Formulário: Premissas Macroeconômicas",
+    "content": ". | Este formulário coleta as premissas macroeconômicas plurianuais, como o índice de inflação americana, o índice de inflação brasileira, a taxa de câmbio e o preço do petróleo Brent. | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-portfolio/#formul%C3%A1rio-premissas-macroecon%C3%B4micas",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-portfolio/#formulário-premissas-macroeconômicas"
+  },"33": {
+    "doc": "Criar um Portfólio",
+    "title": "Formulário: Relatórios das Análises Econômicas",
+    "content": "Estes formulários apresentam relatórios e indicadores econômicos comuns a todos os elementos do Portfólio (Bloco, Campo, Projeto etc.). A seguir, alguns exemplos: . | Relatório de Receitas . | Relatório de Investimentos (CAPEX) . | Relatório de Custos Operacionais (OPEX) . | Relatório de Outras Despesas . | Fluxo de Caixa Nominal . | Indicadores do Fluxo de Caixa Nominal . | Indicadores de Rentabilidade . | Indicadores de Retorno . | Indicadores do Custo Unitário de Produção do Brent . | Indicadores do Custo Unitário de Produção do Óleo . | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-portfolio/#formul%C3%A1rio-relat%C3%B3rios-das-an%C3%A1lises-econ%C3%B4micas",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-portfolio/#formulário-relatórios-das-análises-econômicas"
+  },"34": {
+    "doc": "Criar um Programa",
+    "title": "Criar um Programa",
+    "content": "Entenda como criar um novo Subportfólio de E&amp;P no Petrofolio. ",
+    "url": "/docs/tutorials/portfolio-structure/create-program/",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-program/"
+  },"35": {
+    "doc": "Criar um Programa",
+    "title": "Sumário",
+    "content": ". | O que é um Projeto de E&amp;P? | Como Criar um Novo Programa? | Formulário: Identificação do Programa | Formulário: Relatórios das Análises Econômicas | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-program/#sum%C3%A1rio",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-program/#sumário"
+  },"36": {
+    "doc": "Criar um Programa",
+    "title": "O que é um Projeto de E&amp;P?",
+    "content": "Um Programa de E&amp;P é o planejamento estratégico e operacional que define as atividades a serem realizadas dentro de um bloco ou campo de petróleo e gás ao longo do tempo. Ele estabelece as metas, prazos, investimentos e ações necessárias para cada fase do ciclo de vida do ativo. No Petrofolio, a soma de todas essas atividades econômicas é consolidada na componente Programa de E&amp;P. ",
+    "url": "/docs/tutorials/portfolio-structure/create-program/#o-que-%C3%A9-um-projeto-de-ep",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-program/#o-que-é-um-projeto-de-ep"
+  },"37": {
+    "doc": "Criar um Programa",
+    "title": "Como Criar um Novo Programa?",
+    "content": "Para criar um novo Programa no Petrofolio, siga um dos métodos abaixo: . | Através do menu contextual: . | Clique com o botão direito do mouse no componente Portfólio, localizado na janela Estrutura do Portfólio (lateral esquerda da tela). | Selecione a opção “Novo Programa…“. | . | Através da barra de ferramentas: . | Na barra de ferramentas, clique em “Customizar” e selecione “Novo Programa…“. | . | . Após a seleção, a seguinte janela será exibida para configurar o Programa: . | Selecione os elementos do Portfólio que farão parte do Programa. | . Para cada Programa criado, será gerada uma planilha correspondente no Petrofolio, contendo os formulários apropriados. ",
+    "url": "/docs/tutorials/portfolio-structure/create-program/#como-criar-um-novo-programa",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-program/#como-criar-um-novo-programa"
+  },"38": {
+    "doc": "Criar um Programa",
+    "title": "Formulário: Identificação do Programa",
+    "content": "Coleta o nome e a descrição do Programa de E&amp;P. ",
+    "url": "/docs/tutorials/portfolio-structure/create-program/#formul%C3%A1rio-identifica%C3%A7%C3%A3o-do-programa",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-program/#formulário-identificação-do-programa"
+  },"39": {
+    "doc": "Criar um Programa",
+    "title": "Formulário: Relatórios das Análises Econômicas",
+    "content": "Estes formulários apresentam relatórios e indicadores econômicos comuns a todos os elementos do Portfólio (Bloco, Campo, Projeto etc.). A seguir, alguns exemplos: . | Relatório de Receitas . | Relatório de Investimentos (CAPEX) . | Relatório de Custos Operacionais (OPEX) . | Relatório de Outras Despesas . | Fluxo de Caixa Nominal . | Indicadores do Fluxo de Caixa Nominal . | Indicadores de Rentabilidade . | Indicadores de Retorno . | Indicadores do Custo Unitário de Produção do Brent . | Indicadores do Custo Unitário de Produção do Óleo . | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-program/#formul%C3%A1rio-relat%C3%B3rios-das-an%C3%A1lises-econ%C3%B4micas",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-program/#formulário-relatórios-das-análises-econômicas"
+  },"40": {
+    "doc": "Criar um Projeto",
+    "title": "Criar um Projeto",
+    "content": "Entenda como criar um novo Projeto de E&amp;P no Petrofolio. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/"
+  },"41": {
+    "doc": "Criar um Projeto",
+    "title": "Sumário",
+    "content": ". | O que é um Projeto de E&amp;P? | Como Criar um Novo Projeto? | Formulário: Identificação do Projeto | Formulário: Informações do Projeto | Formulário: Receita do Óleo | Formulário: Receita do Gás | Formulário: Frações de Gás Natural | Formulário: Receita Indireta | Formulário: Item de Investimento Intangível | Formulário: Item de Investimento Tangível | Formulário: Item de Custo de Abandono | Formulário: Item de Custo Operacional Fixo | Formulário: Item de Custo Operacional Variável | Formulário: Item de Despesa Contingente | Formulário: Item de Outras Despesas | Formulário: Informações Fiscais do Projeto | Formulário: Informações da Parceria do Projeto | Formulário: Relatórios das Análises Econômicas | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#sum%C3%A1rio",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#sumário"
+  },"42": {
+    "doc": "Criar um Projeto",
+    "title": "O que é um Projeto de E&amp;P?",
+    "content": "No Petrofolio, um Projeto de E&amp;P é o conjunto de atividades e investimentos planejados para a descoberta, avaliação, desenvolvimento e operação de um campo de petróleo e gás natural. Ele envolve desde a pesquisa inicial até a extração e comercialização dos hidrocarbonetos. No Petrofolio temos quatro tipo de projetos: . 1. Projeto Exploratório Mínimo (PEM): . | Conjunto de atividades obrigatórias que a empresa deve realizar durante a fase exploratória de um Bloco de E&amp;P. | Inclui estudos geológicos, levantamentos sísmicos e perfuração de poços exploratórios para avaliar o potencial de petróleo ou gás na área concedida. | . 2. Atividade Exploratória Adicional (ATEX): . | Atividades extras que uma empresa pode se comprometer a executar além do PEM, geralmente para aumentar as chances de descoberta ou aprofundar o conhecimento sobre o Bloco de E&amp;P. | Podem incluir perfuração de poços adicionais, novos estudos sísmicos ou testes avançados. | . 3. Sistema de Produção Antecipada (SPA): . | Implantação de infraestrutura temporária para iniciar a extração e comercialização de petróleo e gás antes da implantação do sistema definitivo. | Serve para avaliar melhor o comportamento do reservatório e gerar receita enquanto o projeto final é desenvolvido. | . 4. Sistema de Produção Definitiva (SPD): . | Infraestrutura completa e permanente projetada para a extração em larga escala dos hidrocarbonetos de um Campo. | Inclui plataformas, poços produtores e injetores, sistemas submarinos e unidades de processamento, com operação planejada para durar décadas. | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#o-que-%C3%A9-um-projeto-de-ep",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#o-que-é-um-projeto-de-ep"
+  },"43": {
+    "doc": "Criar um Projeto",
+    "title": "Como Criar um Novo Projeto?",
+    "content": "Para criar um novo Projeto no Petrofolio, siga um dos métodos abaixo: . | Através do menu contextual: . | Clique com o botão direito do mouse em um Bloco ou um Campo, localizado na janela Estrutura do Portfólio (lateral esquerda da tela). | Selecione a opção “Programa Exploratório Mínimo…“ ou “Atividade Exploratório Adicional…“ para o caso de um Bloco de E&amp;P. | Selecione a opção “Sistema de Produção Antecipada…“ ou “Sistema de Produção Definitva…“ para o caso de um Campo de E&amp;P. Veja o seguinte exemplo: | . | Através da barra de ferramentas: . | Na barra de ferramentas, clique em “Customizar” e selecione “Novo Projeto…“. | . | . Após a seleção, a seguinte janela será exibida para configurar o novo Projeto: . Para cada projeto criado, será gerada uma planilha correspondente no Petrofolio, contendo os formulários apropriados. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#como-criar-um-novo-projeto",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#como-criar-um-novo-projeto"
+  },"44": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Identificação do Projeto",
+    "content": "Este formulário coleta o nome e a descrição do projeto de E&amp;P. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-identifica%C3%A7%C3%A3o-do-projeto",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-identificação-do-projeto"
+  },"45": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Informações do Projeto",
+    "content": "Coleta a data de início e término da operação do projeto. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-informa%C3%A7%C3%B5es-do-projeto",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-informações-do-projeto"
+  },"46": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Receita do Óleo",
+    "content": "Coleta informações para o cálculo da receita de óleo do projeto. Os principais dados incluem: . | Poder calorífico do óleo produzido; | Vazões de óleo produzido, gás condensado e óleo de perda operacional; | Preços de óleo de mercado e de referência para cálculo de tributos. | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-receita-do-%C3%B3leo",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-receita-do-óleo"
+  },"47": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Receita do Gás",
+    "content": "Coleta informações para o cálculo da receita de gás do projeto, incluindo: . | Poder calorífico do gás produzido, importado, injetado, consumido e comercializado; | Vazões de gás produzido, importado, injetado, consumido, perdido, queimado (autorizado), transformado em derivados e gás lift; | Preços de mercado e de referência para cálculo de tributos. | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-receita-do-g%C3%A1s",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-receita-do-gás"
+  },"48": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Frações de Gás Natural",
+    "content": "Coleta informações sobre as receitas de produtos derivados, considerando a vazão e o preço do produto correspondente. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-fra%C3%A7%C3%B5es-de-g%C3%A1s-natural",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-frações-de-gás-natural"
+  },"49": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Receita Indireta",
+    "content": "Coleta informações sobre receitas indiretas do projeto, como aluguel de gasodutos, oleodutos, entre outros. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-receita-indireta",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-receita-indireta"
+  },"50": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Item de Investimento Intangível",
+    "content": "Coleta informações sobre investimentos não depreciáveis, como exploração, perfuração e completação. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-item-de-investimento-intang%C3%ADvel",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-item-de-investimento-intangível"
+  },"51": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Item de Investimento Tangível",
+    "content": "Coleta informações sobre investimentos depreciáveis, como instalação, coleta e escoamento. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-item-de-investimento-tang%C3%ADvel",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-item-de-investimento-tangível"
+  },"52": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Item de Custo de Abandono",
+    "content": "Coleta informações sobre investimentos em abandono temporário ou definitivo. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-item-de-custo-de-abandono",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-item-de-custo-de-abandono"
+  },"53": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Item de Custo Operacional Fixo",
+    "content": "Coleta informações sobre custos operacionais fixos, que não dependem da produção. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-item-de-custo-operacional-fixo",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-item-de-custo-operacional-fixo"
+  },"54": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Item de Custo Operacional Variável",
+    "content": "Coleta informações sobre custos operacionais variáveis, que têm correlação com a produção. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-item-de-custo-operacional-vari%C3%A1vel",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-item-de-custo-operacional-variável"
+  },"55": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Item de Despesa Contingente",
+    "content": "Coleta informações sobre despesas extras do projeto referentes a investimentos depreciáveis. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-item-de-despesa-contingente",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-item-de-despesa-contingente"
+  },"56": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Item de Outras Despesas",
+    "content": "Coleta informações sobre outras despesas do projeto, como obrigações governamentais, multas de conteúdo local e outras penalidades. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-item-de-outras-despesas",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-item-de-outras-despesas"
+  },"57": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Informações Fiscais do Projeto",
+    "content": "Coleta informações para o cálculo de tributos setoriais, como tributos de concessão ou de partilha de produção, quando aplicáveis. Além disso, coleta dados necessários para o cálculo de IRPJ e CSLL. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-informa%C3%A7%C3%B5es-fiscais-do-projeto",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-informações-fiscais-do-projeto"
+  },"58": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Informações da Parceria do Projeto",
+    "content": "Coleta informações utilizadas na análise de parceria do projeto. ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-informa%C3%A7%C3%B5es-da-parceria-do-projeto",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-informações-da-parceria-do-projeto"
+  },"59": {
+    "doc": "Criar um Projeto",
+    "title": "Formulário: Relatórios das Análises Econômicas",
+    "content": "Estes formulários apresentam relatórios e indicadores econômicos comuns a todos os elementos do Portfólio (Bloco, Campo, Projeto etc.). A seguir, alguns exemplos: . | Relatório de Receitas . | Relatório de Investimentos (CAPEX) . | Relatório de Custos Operacionais (OPEX) . | Relatório de Outras Despesas . | Fluxo de Caixa Nominal . | Indicadores do Fluxo de Caixa Nominal . | Indicadores de Rentabilidade . | Indicadores de Retorno . | Indicadores do Custo Unitário de Produção do Brent . | Indicadores do Custo Unitário de Produção do Óleo . | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-project/#formul%C3%A1rio-relat%C3%B3rios-das-an%C3%A1lises-econ%C3%B4micas",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-project/#formulário-relatórios-das-análises-econômicas"
+  },"60": {
+    "doc": "Criar um Subportfólio",
+    "title": "Criar um Subportfólio",
+    "content": "Entenda como criar um novo Subportfólio de E&amp;P no Petrofolio. ",
+    "url": "/docs/tutorials/portfolio-structure/create-subportfolio/",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-subportfolio/"
+  },"61": {
+    "doc": "Criar um Subportfólio",
+    "title": "Sumário",
+    "content": ". | O que é um Subportfólio de E&amp;P? | Como Criar um Novo Subportfólio? | Formulário: Identificação do Subportfólio | Formulário: Relatórios das Análises Econômicas | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-subportfolio/#sum%C3%A1rio",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-subportfolio/#sumário"
+  },"62": {
+    "doc": "Criar um Subportfólio",
+    "title": "O que é um Subportfólio de E&amp;P?",
+    "content": "No Petrofolio, um Subportfólio de E&amp;P é um componente que permite agrupar ativos de E&amp;P sob um determinado critério, como, por exemplo, ativos onshore e offshore. Além disso, podem ser criados diversos níveis de Subportfólios. Por exemplo, os ativos do Subportfólio offshore podem ser organizados nos Subportfólios Pré-Sal e Pós-Sal; e assim por diante. ",
+    "url": "/docs/tutorials/portfolio-structure/create-subportfolio/#o-que-%C3%A9-um-subportf%C3%B3lio-de-ep",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-subportfolio/#o-que-é-um-subportfólio-de-ep"
+  },"63": {
+    "doc": "Criar um Subportfólio",
+    "title": "Como Criar um Novo Subportfólio?",
+    "content": "Para criar um novo Subportfólio no Petrofolio, siga um dos métodos abaixo: . | Através do menu contextual: . | Clique com o botão direito do mouse no componente Portfólio ou em um Subportfólio, localizado na janela Estrutura do Portfólio (lateral esquerda da tela). | Selecione a opção “Novo Subportfólio…“. | . | Através da barra de ferramentas: . | Na barra de ferramentas, clique em “Customizar” e selecione “Novo Subportfólio…“. | . | . Após a seleção, a seguinte janela será exibida para configurar o subportfólio: . | Selecione o tipo de regime fiscal aplicável. | Opte por incluir um Campo com múltiplos Projetos, se necessário. | . Para cada Subportfólio criado, será gerada uma planilha correspondente no Petrofolio, contendo os formulários apropriados. ",
+    "url": "/docs/tutorials/portfolio-structure/create-subportfolio/#como-criar-um-novo-subportf%C3%B3lio",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-subportfolio/#como-criar-um-novo-subportfólio"
+  },"64": {
+    "doc": "Criar um Subportfólio",
+    "title": "Formulário: Identificação do Subportfólio",
+    "content": "Este formulário coleta o nome e a descrição do Subportfólio de E&amp;P. ",
+    "url": "/docs/tutorials/portfolio-structure/create-subportfolio/#formul%C3%A1rio-identifica%C3%A7%C3%A3o-do-subportf%C3%B3lio",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-subportfolio/#formulário-identificação-do-subportfólio"
+  },"65": {
+    "doc": "Criar um Subportfólio",
+    "title": "Formulário: Relatórios das Análises Econômicas",
+    "content": "Estes formulários apresentam relatórios e indicadores econômicos comuns a todos os elementos do Portfólio (Bloco, Campo, Projeto etc.). A seguir, alguns exemplos: . | Relatório de Receitas . | Relatório de Investimentos (CAPEX) . | Relatório de Custos Operacionais (OPEX) . | Relatório de Outras Despesas . | Fluxo de Caixa Nominal . | Indicadores do Fluxo de Caixa Nominal . | Indicadores de Rentabilidade . | Indicadores de Retorno . | Indicadores do Custo Unitário de Produção do Brent . | Indicadores do Custo Unitário de Produção do Óleo . | . ",
+    "url": "/docs/tutorials/portfolio-structure/create-subportfolio/#formul%C3%A1rio-relat%C3%B3rios-das-an%C3%A1lises-econ%C3%B4micas",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/create-subportfolio/#formulário-relatórios-das-análises-econômicas"
+  },"66": {
+    "doc": "Análise Personalizada",
+    "title": "Responsive modifiers",
+    "content": "Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes. | Modifier | Screen size | . | (none) | All screens until the next modifier | . | xs | 320px (20rem) and up | . | sm | 500px (31.25rem) and up | . | md | 740px (46.25rem) and up | . | lg | 1120px (70rem) and up | . | xl | 1400px (87.5rem) and up | . ",
+    "url": "/docs/tutorials/economic-analysis/custom-analysis/#responsive-modifiers",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/custom-analysis/#responsive-modifiers"
+  },"67": {
+    "doc": "Análise Personalizada",
+    "title": "Análise Personalizada",
+    "content": " ",
+    "url": "/docs/tutorials/economic-analysis/custom-analysis/",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/custom-analysis/"
+  },"68": {
+    "doc": "Análise Determinística",
+    "title": "Responsive modifiers",
+    "content": "Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes. | Modifier | Screen size | . | (none) | All screens until the next modifier | . | xs | 320px (20rem) and up | . | sm | 500px (31.25rem) and up | . | md | 740px (46.25rem) and up | . | lg | 1120px (70rem) and up | . | xl | 1400px (87.5rem) and up | . ",
+    "url": "/docs/tutorials/economic-analysis/deterministic-analysis/#responsive-modifiers",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/deterministic-analysis/#responsive-modifiers"
+  },"69": {
+    "doc": "Análise Determinística",
+    "title": "Análise Determinística",
+    "content": " ",
+    "url": "/docs/tutorials/economic-analysis/deterministic-analysis/",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/deterministic-analysis/"
+  },"70": {
+    "doc": "Estudos de Casos",
+    "title": "Utilities",
+    "content": "CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
+    "url": "/docs/case-studies/#utilities",
+    
+    "relUrl": "/docs/case-studies/#utilities"
+  },"71": {
+    "doc": "Estudos de Casos",
+    "title": "Estudos de Casos",
+    "content": " ",
+    "url": "/docs/case-studies/",
+    
+    "relUrl": "/docs/case-studies/"
+  },"72": {
+    "doc": "Perguntas Frequentes",
+    "title": "Utilities",
+    "content": "CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
+    "url": "/docs/faq/#utilities",
+    
+    "relUrl": "/docs/faq/#utilities"
+  },"73": {
+    "doc": "Perguntas Frequentes",
+    "title": "Perguntas Frequentes",
+    "content": " ",
+    "url": "/docs/faq/",
+    
+    "relUrl": "/docs/faq/"
+  },"74": {
+    "doc": "Guia Conceitual",
+    "title": "Utilities",
+    "content": "CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
+    "url": "/docs/conceptual-guide/#utilities",
+    
+    "relUrl": "/docs/conceptual-guide/#utilities"
+  },"75": {
+    "doc": "Guia Conceitual",
+    "title": "Guia Conceitual",
+    "content": " ",
+    "url": "/docs/conceptual-guide/",
+    
+    "relUrl": "/docs/conceptual-guide/"
+  },"76": {
+    "doc": "Guia Avançado",
+    "title": "Utilities",
+    "content": "CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
+    "url": "/docs/advanced-guide/#utilities",
+    
+    "relUrl": "/docs/advanced-guide/#utilities"
+  },"77": {
+    "doc": "Guia Avançado",
+    "title": "Guia Avançado",
+    "content": " ",
+    "url": "/docs/advanced-guide/",
+    
+    "relUrl": "/docs/advanced-guide/"
+  },"78": {
+    "doc": "Estrutura do Portfólio",
+    "title": "Estrutura do Portfólio",
+    "content": "Os tutoriais a seguir oferecem um guia prático para criar os diversos componentes de um portfólio de E&amp;P. ",
+    "url": "/docs/tutorials/portfolio-structure/",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/"
+  },"79": {
+    "doc": "Estrutura do Portfólio",
+    "title": "Sumário",
+    "content": ". | Criando um Portfólio | Criando um Bloco | Criando um Campo | Criando um Projeto | Criando um Subportfólio | Criando um Programa | . ",
+    "url": "/docs/tutorials/portfolio-structure/#sum%C3%A1rio",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/#sumário"
+  },"80": {
+    "doc": "Análises Econômicas",
+    "title": "Análises Econômicas",
+    "content": "CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
+    "url": "/docs/tutorials/economic-analysis/",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/"
+  },"81": {
+    "doc": "Tutoriais",
+    "title": "Tutoriais",
+    "content": "Os tutoriais oferecem uma abordagem prática para compreender e dominar as funcionalidades do sistema. ",
+    "url": "/docs/tutorials/",
+    
+    "relUrl": "/docs/tutorials/"
+  },"82": {
+    "doc": "Tutoriais",
+    "title": "Sumário",
+    "content": ". | Estrutura do Portfólio | Análises Econômicas | Configurações do Sistema | Arquitetura do Sistema | . ",
+    "url": "/docs/tutorials/#sum%C3%A1rio",
+    
+    "relUrl": "/docs/tutorials/#sumário"
+  },"83": {
+    "doc": "Histórico de Atualizações",
+    "title": "Utilities",
+    "content": "CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
+    "url": "/docs/release-notes/#utilities",
+    
+    "relUrl": "/docs/release-notes/#utilities"
+  },"84": {
+    "doc": "Histórico de Atualizações",
+    "title": "Histórico de Atualizações",
+    "content": " ",
+    "url": "/docs/release-notes/",
+    
+    "relUrl": "/docs/release-notes/"
+  },"85": {
+    "doc": "Início",
+    "title": "Início",
+    "content": "Bem-vindo ao PETROFOLIO, a plataforma projetada para otimizar a gestão de portfólios no setor de Exploração &amp; Produção (E&amp;P) de petróleo e gás. Nosso objetivo é proporcionar uma experiência intuitiva e eficiente, permitindo que você tome decisões estratégicas com confiança e segurança em um ambiente dinâmico e competitivo. Instale o Petrofolio Agora Ative o Petrofolio Agora . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"86": {
+    "doc": "Início",
+    "title": "O que é o PETROFOLIO?",
+    "content": "O PETROFOLIO é uma ferramenta de análise econômica para portfólios de projetos de Exploração &amp; Produção (E&amp;P) de petróleo e gás natural. Ele auxilia na tomada de decisão ao longo da cadeia produtiva, permitindo a avaliação de múltiplos projetos, maximizando resultados e reduzindo riscos. ",
+    "url": "/#o-que-%C3%A9-o-petrofolio",
+    
+    "relUrl": "/#o-que-é-o-petrofolio"
+  },"87": {
+    "doc": "Início",
+    "title": "Principais Funcionalidades",
+    "content": "Visão de Portfólio . | Suporte para múltiplos blocos, campos e projetos. | . Múltiplos Regimes Fiscais . | Compatível com os regimes de Concessão, Cessão Onerosa e Partilha de Produção. | . Análises Econômicas . | Fluxo de Caixa Descontado (FCD) – Análise Determinística. | Análise de Sensibilidade – Simulação de impacto de variáveis críticas. | Análise Probabilística (Risco) – Modelagem de incertezas. | . Cálculo de Reservas . | Estimativa e certificação de reservas economicamente viáveis. | . Premissas Opcionais . | Suporte a múltiplas moedas (R$, US$). | Ajuste de períodos personalizados pelo usuário. | Opções de inflação em moeda corrente ou constante. | . Análises Complementares . | Avaliação de parcerias, fusões e aquisições (M&amp;A). | Modelagem de Acordos de Individualização da Produção (AIPs). | . ",
+    "url": "/#principais-funcionalidades",
+    
+    "relUrl": "/#principais-funcionalidades"
+  },"88": {
+    "doc": "Instalação",
+    "title": "Instalação",
+    "content": "Siga as instruções abaixo para instalar o sistema. ",
+    "url": "/docs/installation/",
+    
+    "relUrl": "/docs/installation/"
+  },"89": {
+    "doc": "Instalação",
+    "title": "Sumário",
+    "content": ". | Requisitos do Sistema | Download do Software | Instalação por Usuário . | Passo 1: Descompactar o Arquivo ZIP | Passo 2: Executar o Instalador | Passo 3: Concluir a Instalação | . | Instalação Por Máquina . | Passo 1: Descompactar o Arquivo ZIP | Passo 2: Acessar o Prompt de Comando | Passo 3: Executar o Comando de Instalação | . | . ",
+    "url": "/docs/installation/#sum%C3%A1rio",
+    
+    "relUrl": "/docs/installation/#sumário"
+  },"90": {
+    "doc": "Instalação",
+    "title": "Requisitos do Sistema",
+    "content": "Para garantir o funcionamento adequado do Petrofolio, certifique-se de atender aos seguintes requisitos: . | Sistema Operacional: Windows 10 ou superior. | Microsoft Excel: Versão desktop 2016 ou superior. Incompatível com o Office 365 Web. | Arquitetura: O Windows e o Excel devem ser de 64 bits (não compatível com 32 bits). | . ",
+    "url": "/docs/installation/#requisitos-do-sistema",
+    
+    "relUrl": "/docs/installation/#requisitos-do-sistema"
+  },"91": {
+    "doc": "Instalação",
+    "title": "Download do Software",
+    "content": ". | Acesse o site oficial: 👉 download.petrofolio.net. | Clique no botão “Baixar o instalador do Petrofolio” para iniciar o download do arquivo .zip. | . ",
+    "url": "/docs/installation/#download-do-software",
+    
+    "relUrl": "/docs/installation/#download-do-software"
+  },"92": {
+    "doc": "Instalação",
+    "title": "Instalação por Usuário",
+    "content": "Se deseja que o Petrofolio esteja disponível apenas para o usuário atual do computador, siga os passos abaixo. ⚠️ Importante: Este método não requer permissões de administrador. Passo 1: Descompactar o Arquivo ZIP . | Extraia o conteúdo do arquivo .zip para uma pasta local. | Certifique-se de que os seguintes arquivos estejam na pasta extraída: . | setup.exe – Instalador principal do software. | PetrofolioAddInSetup.msi – Instalador do complemento do Excel. | Exemplo_Portfolio.xls – Arquivo de exemplo para uso no Petrofolio. | . | . Passo 2: Executar o Instalador . | Execute o arquivo setup.exe e siga as instruções na tela. | Recomendado: Utilize as configurações padrão para evitar problemas. | . Passo 3: Concluir a Instalação . | Após a finalização, feche a janela do instalador. | O Petrofolio estará pronto para uso. | . ",
+    "url": "/docs/installation/#instala%C3%A7%C3%A3o-por-usu%C3%A1rio",
+    
+    "relUrl": "/docs/installation/#instalação-por-usuário"
+  },"93": {
+    "doc": "Instalação",
+    "title": "Instalação Por Máquina",
+    "content": "Se deseja que o Petrofolio esteja disponível para todos os usuários do computador, siga os passos abaixo. ⚠️ Importante: Este método requer permissões de administrador. Passo 1: Descompactar o Arquivo ZIP . | Extraia o conteúdo do arquivo .zip para uma pasta local. | Certifique-se de que os seguintes arquivos estejam presentes: . | setup.exe – Instalador principal do software. | PetrofolioAddInSetup.msi – Instalador do complemento do Excel. | Exemplo_Portfolio.xls – Arquivo de exemplo. | . | . Passo 2: Acessar o Prompt de Comando . | Abra o Prompt de Comando (cmd.exe) como administrador. | . Passo 3: Executar o Comando de Instalação . | Navegue até a pasta onde o Petrofolio foi extraído, utilizando o comando cd: cd caminho-da-pasta-petrofolio . | Execute o comando abaixo para instalar o suplemento do Excel para todos os usuários: msiexec /i PetrofolioAddInSetup.msi ALLUSERS=1 TARGETDIR=\"C:\\Program Files\\PETROFOLIO\\PetrofolioAddIn\\\" . | . ",
+    "url": "/docs/installation/#instala%C3%A7%C3%A3o-por-m%C3%A1quina",
+    
+    "relUrl": "/docs/installation/#instalação-por-máquina"
+  },"94": {
+    "doc": "Política de Privacidade",
+    "title": "Utilities",
+    "content": "CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
+    "url": "/docs/privacy-policy/#utilities",
+    
+    "relUrl": "/docs/privacy-policy/#utilities"
+  },"95": {
+    "doc": "Política de Privacidade",
+    "title": "Política de Privacidade",
+    "content": " ",
+    "url": "/docs/privacy-policy/",
+    
+    "relUrl": "/docs/privacy-policy/"
+  },"96": {
+    "doc": "Análise Probabilística",
+    "title": "Responsive modifiers",
+    "content": "Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes. | Modifier | Screen size | . | (none) | All screens until the next modifier | . | xs | 320px (20rem) and up | . | sm | 500px (31.25rem) and up | . | md | 740px (46.25rem) and up | . | lg | 1120px (70rem) and up | . | xl | 1400px (87.5rem) and up | . ",
+    "url": "/docs/tutorials/economic-analysis/probabilistic-analysis/#responsive-modifiers",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/probabilistic-analysis/#responsive-modifiers"
+  },"97": {
+    "doc": "Análise Probabilística",
+    "title": "Análise Probabilística",
+    "content": " ",
+    "url": "/docs/tutorials/economic-analysis/probabilistic-analysis/",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/probabilistic-analysis/"
+  },"98": {
+    "doc": "Análise Sensibilidade",
+    "title": "Responsive modifiers",
+    "content": "Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes. | Modifier | Screen size | . | (none) | All screens until the next modifier | . | xs | 320px (20rem) and up | . | sm | 500px (31.25rem) and up | . | md | 740px (46.25rem) and up | . | lg | 1120px (70rem) and up | . | xl | 1400px (87.5rem) and up | . ",
+    "url": "/docs/tutorials/economic-analysis/sensitivity-analysis/#responsive-modifiers",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/sensitivity-analysis/#responsive-modifiers"
+  },"99": {
+    "doc": "Análise Sensibilidade",
+    "title": "Análise Sensibilidade",
+    "content": " ",
+    "url": "/docs/tutorials/economic-analysis/sensitivity-analysis/",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/sensitivity-analysis/"
+  },"100": {
+    "doc": "Arquitetura do Sistema",
+    "title": "Arquitetura do Sistema",
+    "content": "When using the default layout, all pages except top-level pages will automatically have a list of ‘breadcrumbs’ at the top, linking to the parent page and to any higher-level ancestors. The default layout does not provide an option to suppress the list of breadcrumbs. To do that, you would need to define a new layout, or override the file _includes/components/breadcrumbs.html (e.g., with an empty file). ",
+    "url": "/docs/tutorials/system-architecture/",
+    
+    "relUrl": "/docs/tutorials/system-architecture/"
+  },"101": {
+    "doc": "Configurações do Sistema",
+    "title": "Arquitetura do Sistema",
+    "content": "When using the default layout, all pages except top-level pages will automatically have a list of ‘breadcrumbs’ at the top, linking to the parent page and to any higher-level ancestors. The default layout does not provide an option to suppress the list of breadcrumbs. To do that, you would need to define a new layout, or override the file _includes/components/breadcrumbs.html (e.g., with an empty file). ",
+    "url": "/docs/tutorials/system-settings/#arquitetura-do-sistema",
+    
+    "relUrl": "/docs/tutorials/system-settings/#arquitetura-do-sistema"
+  },"102": {
+    "doc": "Configurações do Sistema",
+    "title": "Configurações do Sistema",
+    "content": " ",
+    "url": "/docs/tutorials/system-settings/",
+    
+    "relUrl": "/docs/tutorials/system-settings/"
+  },"103": {
+    "doc": "Suporte Técnico",
+    "title": "Utilities",
+    "content": "CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
+    "url": "/docs/technical-support/#utilities",
+    
+    "relUrl": "/docs/technical-support/#utilities"
+  },"104": {
+    "doc": "Suporte Técnico",
+    "title": "Suporte Técnico",
+    "content": " ",
+    "url": "/docs/technical-support/",
+    
+    "relUrl": "/docs/technical-support/"
+  },"105": {
+    "doc": "Termos de Uso",
+    "title": "Utilities",
+    "content": "CSS utility classes come in handy when you want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
+    "url": "/docs/term-of-use/#utilities",
+    
+    "relUrl": "/docs/term-of-use/#utilities"
+  },"106": {
+    "doc": "Termos de Uso",
+    "title": "Termos de Uso",
+    "content": " ",
+    "url": "/docs/term-of-use/",
+    
+    "relUrl": "/docs/term-of-use/"
+  }
+}
