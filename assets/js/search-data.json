@@ -538,194 +538,194 @@
     
     "relUrl": "/docs/tutorials/economic-analysis/deterministic-analysis/#janela-preferências-da-análise-determinística"
   },"77": {
-    "doc": "Estudos de Casos",
-    "title": "Estudos de Casos",
-    "content": " ",
-    "url": "/docs/case-studies/",
-    
-    "relUrl": "/docs/case-studies/"
-  },"78": {
-    "doc": "Perguntas Frequentes",
-    "title": "Perguntas Frequentes (FAQ)",
-    "content": "Encontre aqui as respostas para as dúvidas mais comuns sobre o PETROFOLIO, incluindo suas funcionalidades, aquisição, suporte e instalação. ",
-    "url": "/docs/faq/#perguntas-frequentes-faq",
-    
-    "relUrl": "/docs/faq/#perguntas-frequentes-faq"
-  },"79": {
-    "doc": "Perguntas Frequentes",
-    "title": "Sumário",
-    "content": ". | A quem se destina o PETROFOLIO? | Quais tipos de contratos de exploração e produção estão disponíveis no PETROFOLIO? | O PETROFOLIO é uma planilha do Excel? | O PETROFOLIO pode ser customizado para atender às minhas necessidades? | Que tipo de suporte está disponível para usuários do PETROFOLIO? | Como entrar em contato com os administradores do PETROFOLIO? | O PETROFOLIO possui um site oficial? | Existe treinamento para o uso do PETROFOLIO? | Quanto custa o PETROFOLIO? | Como adquirir o PETROFOLIO? | Como instalar o PETROFOLIO? | Como ativar o PETROFOLIO para edição e simulação? | . ",
-    "url": "/docs/faq/#sum%C3%A1rio",
-    
-    "relUrl": "/docs/faq/#sumário"
-  },"80": {
-    "doc": "Perguntas Frequentes",
-    "title": "A quem se destina o PETROFOLIO?",
-    "content": "O PETROFOLIO é uma ferramenta computacional desenvolvida para realizar análises econômicas de ativos de O&amp;G no segmento E&amp;P. Seu diferencial está na avaliação integrada de portfólios de ativos. Seu uso pode atender a diversas necessidades, desde consultores e pesquisadores em instituições de ensino até companhias de petróleo, entidades certificadoras de reservas e auditorias. ",
-    "url": "/docs/faq/#a-quem-se-destina-o-petrofolio",
-    
-    "relUrl": "/docs/faq/#a-quem-se-destina-o-petrofolio"
-  },"81": {
-    "doc": "Perguntas Frequentes",
-    "title": "Quais tipos de contratos de exploração e produção estão disponíveis no PETROFOLIO?",
-    "content": "O PETROFOLIO contempla todos os contratos vigentes no Brasil, permitindo a inclusão de blocos sob diferentes regimes, como: . | Concessão | Partilha de Produção | Cessão Onerosa | Áreas não contratadas da União | . Regimes fiscais de outros países também podem ser adicionados sob demanda. ",
-    "url": "/docs/faq/#quais-tipos-de-contratos-de-explora%C3%A7%C3%A3o-e-produ%C3%A7%C3%A3o-est%C3%A3o-dispon%C3%ADveis-no-petrofolio",
-    
-    "relUrl": "/docs/faq/#quais-tipos-de-contratos-de-exploração-e-produção-estão-disponíveis-no-petrofolio"
-  },"82": {
-    "doc": "Perguntas Frequentes",
-    "title": "O PETROFOLIO é uma planilha do Excel?",
-    "content": "Não. O PETROFOLIO é um software desenvolvido em C++, sendo o Excel utilizado apenas como interface gráfica para inserção de dados, execução de simulações e visualização de resultados. Todas as ferramentas são acessadas via um suplemento no Excel. ",
-    "url": "/docs/faq/#o-petrofolio-%C3%A9-uma-planilha-do-excel",
-    
-    "relUrl": "/docs/faq/#o-petrofolio-é-uma-planilha-do-excel"
-  },"83": {
-    "doc": "Perguntas Frequentes",
-    "title": "O PETROFOLIO pode ser customizado para atender às minhas necessidades?",
-    "content": "Sim. A versão padrão do PETROFOLIO inclui as principais funcionalidades para avaliação econômica de ativos de E&amp;P. No entanto, caso seja necessária a inclusão de critérios específicos, a ferramenta pode ser personalizada mediante solicitação. ",
-    "url": "/docs/faq/#o-petrofolio-pode-ser-customizado-para-atender-%C3%A0s-minhas-necessidades",
-    
-    "relUrl": "/docs/faq/#o-petrofolio-pode-ser-customizado-para-atender-às-minhas-necessidades"
-  },"84": {
-    "doc": "Perguntas Frequentes",
-    "title": "Que tipo de suporte está disponível para usuários do PETROFOLIO?",
-    "content": "Os usuários podem obter suporte por meio de diferentes canais: . | Recursos de ajuda disponíveis na própria ferramenta. | Orientações no site: PETROFOLIO | Contato por e-mail: supporte@petrofolio.net | . ",
-    "url": "/docs/faq/#que-tipo-de-suporte-est%C3%A1-dispon%C3%ADvel-para-usu%C3%A1rios-do-petrofolio",
-    
-    "relUrl": "/docs/faq/#que-tipo-de-suporte-está-disponível-para-usuários-do-petrofolio"
-  },"85": {
-    "doc": "Perguntas Frequentes",
-    "title": "Como entrar em contato com os administradores do PETROFOLIO?",
-    "content": "Para mais informações e suporte, acesse o site oficial ou entre em contato pelo e-mail: . | Website: www.petrofolio.net | E-mail: supporte@petrofolio.net | . ",
-    "url": "/docs/faq/#como-entrar-em-contato-com-os-administradores-do-petrofolio",
-    
-    "relUrl": "/docs/faq/#como-entrar-em-contato-com-os-administradores-do-petrofolio"
-  },"86": {
-    "doc": "Perguntas Frequentes",
-    "title": "O PETROFOLIO possui um site oficial?",
-    "content": "Sim. O PETROFOLIO pode ser acessado pelo site: . | www.petrofolio.net | . No site, você encontrará informações sobre suas funcionalidades, características técnicas e modo de operação. ",
-    "url": "/docs/faq/#o-petrofolio-possui-um-site-oficial",
-    
-    "relUrl": "/docs/faq/#o-petrofolio-possui-um-site-oficial"
-  },"87": {
-    "doc": "Perguntas Frequentes",
-    "title": "Existe treinamento para o uso do PETROFOLIO?",
-    "content": "Sim. Além das instruções disponíveis na ferramenta e no site, é possível contratar treinamentos mais abrangentes, que podem ser: . | Básicos – Para usuários iniciantes. | Personalizados – Com foco em funcionalidades específicas. | . ",
-    "url": "/docs/faq/#existe-treinamento-para-o-uso-do-petrofolio",
-    
-    "relUrl": "/docs/faq/#existe-treinamento-para-o-uso-do-petrofolio"
-  },"88": {
-    "doc": "Perguntas Frequentes",
-    "title": "Quanto custa o PETROFOLIO?",
-    "content": "O valor do PETROFOLIO varia conforme sua finalidade: . | Gratuito para testes, instituições de ensino e pesquisa. | Pago para uso corporativo, com preços ajustados conforme o modelo de instalação (temporário, individual ou comunitário). | . ",
-    "url": "/docs/faq/#quanto-custa-o-petrofolio",
-    
-    "relUrl": "/docs/faq/#quanto-custa-o-petrofolio"
-  },"89": {
-    "doc": "Perguntas Frequentes",
-    "title": "Como adquirir o PETROFOLIO?",
-    "content": "As solicitações para obtenção do PETROFOLIO podem ser feitas diretamente no site oficial: . | Acesse: PETROFOLIO | . ",
-    "url": "/docs/faq/#como-adquirir-o-petrofolio",
-    
-    "relUrl": "/docs/faq/#como-adquirir-o-petrofolio"
-  },"90": {
-    "doc": "Perguntas Frequentes",
-    "title": "Como instalar o PETROFOLIO?",
-    "content": "Após obter o instalador do PETROFOLIO, siga o procedimento padrão: . | Execute o arquivo de instalação. | Siga as instruções na tela. | Conclua a instalação e inicie o software. | . ",
-    "url": "/docs/faq/#como-instalar-o-petrofolio",
-    
-    "relUrl": "/docs/faq/#como-instalar-o-petrofolio"
-  },"91": {
-    "doc": "Perguntas Frequentes",
-    "title": "Como ativar o PETROFOLIO para edição e simulação?",
-    "content": "Após a instalação, será necessário ativar a ferramenta: . | Ao abrir o PETROFOLIO, um Código de Registro será gerado. | Envie esse código para o e-mail suporte@petrofolio.net | Você receberá um Código de Ativação, que deve ser inserido no software para liberar todas as funcionalidades. | . ",
-    "url": "/docs/faq/#como-ativar-o-petrofolio-para-edi%C3%A7%C3%A3o-e-simula%C3%A7%C3%A3o",
-    
-    "relUrl": "/docs/faq/#como-ativar-o-petrofolio-para-edição-e-simulação"
-  },"92": {
-    "doc": "Perguntas Frequentes",
-    "title": "Perguntas Frequentes",
-    "content": " ",
-    "url": "/docs/faq/",
-    
-    "relUrl": "/docs/faq/"
-  },"93": {
     "doc": "Guia Conceitual",
     "title": "Guia Conceitual",
     "content": " ",
     "url": "/docs/conceptual-guide/",
     
     "relUrl": "/docs/conceptual-guide/"
-  },"94": {
+  },"78": {
     "doc": "Guia Avançado",
     "title": "Guia Avançado",
     "content": " ",
     "url": "/docs/advanced-guide/",
     
     "relUrl": "/docs/advanced-guide/"
-  },"95": {
-    "doc": "Estrutura do Portfólio",
-    "title": "Estrutura do Portfólio",
-    "content": "Os tutoriais a seguir oferecem um guia prático para criar os diversos componentes de um portfólio de E&amp;P. ",
-    "url": "/docs/tutorials/portfolio-structure/",
+  },"79": {
+    "doc": "Perguntas Frequentes",
+    "title": "Perguntas Frequentes (FAQ)",
+    "content": "Encontre aqui as respostas para as dúvidas mais comuns sobre o PETROFOLIO, incluindo suas funcionalidades, aquisição, suporte e instalação. ",
+    "url": "/docs/faq/#perguntas-frequentes-faq",
     
-    "relUrl": "/docs/tutorials/portfolio-structure/"
-  },"96": {
-    "doc": "Estrutura do Portfólio",
+    "relUrl": "/docs/faq/#perguntas-frequentes-faq"
+  },"80": {
+    "doc": "Perguntas Frequentes",
     "title": "Sumário",
-    "content": ". | Criando um Portfólio | Criando um Bloco | Criando um Campo | Criando um Projeto | Criando um Subportfólio | Criando um Programa | . ",
-    "url": "/docs/tutorials/portfolio-structure/#sum%C3%A1rio",
+    "content": ". | A quem se destina o PETROFOLIO? | Quais tipos de contratos de exploração e produção estão disponíveis no PETROFOLIO? | O PETROFOLIO é uma planilha do Excel? | O PETROFOLIO pode ser customizado para atender às minhas necessidades? | Que tipo de suporte está disponível para usuários do PETROFOLIO? | Como entrar em contato com os administradores do PETROFOLIO? | O PETROFOLIO possui um site oficial? | Existe treinamento para o uso do PETROFOLIO? | Quanto custa o PETROFOLIO? | Como adquirir o PETROFOLIO? | Como instalar o PETROFOLIO? | Como ativar o PETROFOLIO para edição e simulação? | . ",
+    "url": "/docs/faq/#sum%C3%A1rio",
     
-    "relUrl": "/docs/tutorials/portfolio-structure/#sumário"
-  },"97": {
-    "doc": "Análises Econômicas",
-    "title": "Análises Econômicas",
-    "content": "Os tomadores de decisão e os gestores de portfólio de ativos de E&amp;P enfrentam desafios estratégicos cruciais ao avaliar investimentos no setor de Exploração &amp; Produção (E&amp;P). Dois dos principais questionamentos nesse processo são: . | Em quais oportunidades de negócio a companhia deve investir? | Como captar recursos para viabilizar esses investimentos? | . A primeira questão envolve uma decisão econômica, ou seja, a análise da viabilidade e rentabilidade do projeto. O objetivo é determinar se o valor gerado supera o capital necessário para sua execução. Se a resposta for positiva, a próxima etapa envolve uma decisão financeira, que consiste em definir a melhor estratégia de captação e alocação de recursos. Para os gestores de portfólio, o desafio se amplia, pois é necessário equilibrar investimentos entre múltiplos ativos, maximizando o retorno global e garantindo uma alocação eficiente de capital. Isso exige uma visão integrada dos projetos, permitindo priorizar investimentos conforme seu potencial de geração de valor e risco associado. Assim, a separação entre análise econômica e financeira é essencial para uma tomada de decisão estruturada. Primeiro, avalia-se a viabilidade individual de cada projeto; depois, define-se a melhor forma de financiamento e distribuição de capital dentro do portfólio. Os tutoriais desta seção apresentam uma abordagem prática para explorar as funcionalidades do PETROFOLIO, auxiliando tanto tomadores de decisão quanto gestores de portfólio na avaliação econômica de projetos de E&amp;P. Aqui, você aprenderá a aplicar diferentes metodologias de análise para estimar a viabilidade econômica de investimentos, comparar cenários e aprimorar a tomada de decisão. ",
-    "url": "/docs/tutorials/economic-analysis/",
+    "relUrl": "/docs/faq/#sumário"
+  },"81": {
+    "doc": "Perguntas Frequentes",
+    "title": "A quem se destina o PETROFOLIO?",
+    "content": "O PETROFOLIO é uma ferramenta computacional desenvolvida para realizar análises econômicas de ativos de O&amp;G no segmento E&amp;P. Seu diferencial está na avaliação integrada de portfólios de ativos. Seu uso pode atender a diversas necessidades, desde consultores e pesquisadores em instituições de ensino até companhias de petróleo, entidades certificadoras de reservas e auditorias. ",
+    "url": "/docs/faq/#a-quem-se-destina-o-petrofolio",
     
-    "relUrl": "/docs/tutorials/economic-analysis/"
-  },"98": {
-    "doc": "Análises Econômicas",
-    "title": "Abordagem Integrada de Análises Econômicas",
-    "content": "O PETROFOLIO organiza suas análises econômicas de forma integrada, onde cada método complementa o anterior, proporcionando uma visão mais abrangente e realista dos projetos de E&amp;P. As análises seguem uma sequência lógica, permitindo uma compreensão progressiva dos riscos e retornos envolvidos: . | Análise Determinística – Avalia a viabilidade do projeto considerando um cenário fixo, com valores estáticos para todas as variáveis críticas. Essa análise fornece um ponto de partida, permitindo calcular indicadores econômicos como VPL, TIR e Payback com base em um único estado da natureza. | Análise de Sensibilidade – Identifica as variáveis do projeto que exercem maior impacto nos indicadores econômicos. Por meio da variação controlada de premissas (como preço do petróleo, CAPEX, OPEX e taxa de desconto), essa análise permite compreender quais fatores representam os principais riscos para a viabilidade do projeto. | Análise Probabilística – Aplicada às variáveis com maior incerteza, identificadas na Análise de Sensibilidade. Utiliza a Simulação de Monte Carlo para calcular distribuições de probabilidade dos indicadores financeiros, fornecendo percentis como P10, P50 e P90, que quantificam riscos e probabilidades de sucesso do projeto. | Análises Complementares – Inclui avaliações estratégicas específicas, como análise de parcerias e certificação de reservas. Essas análises podem ser configuradas como parâmetros adicionais nas três análises anteriores, permitindo a incorporação de efeitos fiscais, jurídicos e operacionais em projetos compartilhados ou com diferentes regimes de concessão. | Análises Personalizadas – Permite a realização de estudos avançados não contemplados pelas análises anteriores. Inclui metodologias como Análise de Opções Reais, Análise de Cenários e Otimização de Portfólio, oferecendo maior flexibilidade para modelagem de investimentos complexos e definição de estratégias para maximização do valor do portfólio. | . Cada um desses métodos contribui para uma avaliação econômica mais robusta e fundamentada, fornecendo suporte essencial para a tomada de decisões estratégicas no setor de petróleo e gás. ",
-    "url": "/docs/tutorials/economic-analysis/#abordagem-integrada-de-an%C3%A1lises-econ%C3%B4micas",
+    "relUrl": "/docs/faq/#a-quem-se-destina-o-petrofolio"
+  },"82": {
+    "doc": "Perguntas Frequentes",
+    "title": "Quais tipos de contratos de exploração e produção estão disponíveis no PETROFOLIO?",
+    "content": "O PETROFOLIO contempla todos os contratos vigentes no Brasil, permitindo a inclusão de blocos sob diferentes regimes, como: . | Concessão | Partilha de Produção | Cessão Onerosa | Áreas não contratadas da União | . Regimes fiscais de outros países também podem ser adicionados sob demanda. ",
+    "url": "/docs/faq/#quais-tipos-de-contratos-de-explora%C3%A7%C3%A3o-e-produ%C3%A7%C3%A3o-est%C3%A3o-dispon%C3%ADveis-no-petrofolio",
     
-    "relUrl": "/docs/tutorials/economic-analysis/#abordagem-integrada-de-análises-econômicas"
-  },"99": {
-    "doc": "Análises Econômicas",
-    "title": "Análise Financeira no PETROFOLIO",
-    "content": "Além da avaliação econômica, o PETROFOLIO pode ser utilizado para realizar a Análise Financeira, permitindo ajustes nas premissas e dados para capturar a estrutura de financiamento dos investimentos. Isso inclui: . | Modificação da TMA (Taxa Mínima de Atratividade) para refletir a estrutura de capital da empresa, considerando diferentes fontes de financiamento. | Inclusão de benefícios tributários associados a empréstimos no cálculo de Imposto de Renda e Contribuição Social, ajustando os impactos fiscais do financiamento. | Consideração de estratégias de alavancagem para avaliar o efeito da dívida na rentabilidade do projeto. | . Esses ajustes possibilitam uma visão mais completa da viabilidade dos investimentos, integrando tanto a perspectiva econômica quanto a financeira, essenciais para uma gestão estratégica eficiente dos ativos de E&amp;P. ",
-    "url": "/docs/tutorials/economic-analysis/#an%C3%A1lise-financeira-no-petrofolio",
+    "relUrl": "/docs/faq/#quais-tipos-de-contratos-de-exploração-e-produção-estão-disponíveis-no-petrofolio"
+  },"83": {
+    "doc": "Perguntas Frequentes",
+    "title": "O PETROFOLIO é uma planilha do Excel?",
+    "content": "Não. O PETROFOLIO é um software desenvolvido em C++, sendo o Excel utilizado apenas como interface gráfica para inserção de dados, execução de simulações e visualização de resultados. Todas as ferramentas são acessadas via um suplemento no Excel. ",
+    "url": "/docs/faq/#o-petrofolio-%C3%A9-uma-planilha-do-excel",
     
-    "relUrl": "/docs/tutorials/economic-analysis/#análise-financeira-no-petrofolio"
-  },"100": {
-    "doc": "Tutoriais",
-    "title": "Tutoriais",
-    "content": "Os tutoriais oferecem uma abordagem prática para compreender e dominar as funcionalidades do PETROFOLIO. ",
-    "url": "/docs/tutorials/",
+    "relUrl": "/docs/faq/#o-petrofolio-é-uma-planilha-do-excel"
+  },"84": {
+    "doc": "Perguntas Frequentes",
+    "title": "O PETROFOLIO pode ser customizado para atender às minhas necessidades?",
+    "content": "Sim. A versão padrão do PETROFOLIO inclui as principais funcionalidades para avaliação econômica de ativos de E&amp;P. No entanto, caso seja necessária a inclusão de critérios específicos, a ferramenta pode ser personalizada mediante solicitação. ",
+    "url": "/docs/faq/#o-petrofolio-pode-ser-customizado-para-atender-%C3%A0s-minhas-necessidades",
     
-    "relUrl": "/docs/tutorials/"
-  },"101": {
-    "doc": "Tutoriais",
-    "title": "Sumário",
-    "content": ". | Estrutura do Portfólio | Análises Econômicas | Configurações do Sistema | Arquitetura do Sistema | . ",
-    "url": "/docs/tutorials/#sum%C3%A1rio",
+    "relUrl": "/docs/faq/#o-petrofolio-pode-ser-customizado-para-atender-às-minhas-necessidades"
+  },"85": {
+    "doc": "Perguntas Frequentes",
+    "title": "Que tipo de suporte está disponível para usuários do PETROFOLIO?",
+    "content": "Os usuários podem obter suporte por meio de diferentes canais: . | Recursos de ajuda disponíveis na própria ferramenta. | Orientações no site: PETROFOLIO | Contato por e-mail: supporte@petrofolio.net | . ",
+    "url": "/docs/faq/#que-tipo-de-suporte-est%C3%A1-dispon%C3%ADvel-para-usu%C3%A1rios-do-petrofolio",
     
-    "relUrl": "/docs/tutorials/#sumário"
-  },"102": {
+    "relUrl": "/docs/faq/#que-tipo-de-suporte-está-disponível-para-usuários-do-petrofolio"
+  },"86": {
+    "doc": "Perguntas Frequentes",
+    "title": "Como entrar em contato com os administradores do PETROFOLIO?",
+    "content": "Para mais informações e suporte, acesse o site oficial ou entre em contato pelo e-mail: . | Website: www.petrofolio.net | E-mail: supporte@petrofolio.net | . ",
+    "url": "/docs/faq/#como-entrar-em-contato-com-os-administradores-do-petrofolio",
+    
+    "relUrl": "/docs/faq/#como-entrar-em-contato-com-os-administradores-do-petrofolio"
+  },"87": {
+    "doc": "Perguntas Frequentes",
+    "title": "O PETROFOLIO possui um site oficial?",
+    "content": "Sim. O PETROFOLIO pode ser acessado pelo site: . | www.petrofolio.net | . No site, você encontrará informações sobre suas funcionalidades, características técnicas e modo de operação. ",
+    "url": "/docs/faq/#o-petrofolio-possui-um-site-oficial",
+    
+    "relUrl": "/docs/faq/#o-petrofolio-possui-um-site-oficial"
+  },"88": {
+    "doc": "Perguntas Frequentes",
+    "title": "Existe treinamento para o uso do PETROFOLIO?",
+    "content": "Sim. Além das instruções disponíveis na ferramenta e no site, é possível contratar treinamentos mais abrangentes, que podem ser: . | Básicos – Para usuários iniciantes. | Personalizados – Com foco em funcionalidades específicas. | . ",
+    "url": "/docs/faq/#existe-treinamento-para-o-uso-do-petrofolio",
+    
+    "relUrl": "/docs/faq/#existe-treinamento-para-o-uso-do-petrofolio"
+  },"89": {
+    "doc": "Perguntas Frequentes",
+    "title": "Quanto custa o PETROFOLIO?",
+    "content": "O valor do PETROFOLIO varia conforme sua finalidade: . | Gratuito para testes, instituições de ensino e pesquisa. | Pago para uso corporativo, com preços ajustados conforme o modelo de instalação (temporário, individual ou comunitário). | . ",
+    "url": "/docs/faq/#quanto-custa-o-petrofolio",
+    
+    "relUrl": "/docs/faq/#quanto-custa-o-petrofolio"
+  },"90": {
+    "doc": "Perguntas Frequentes",
+    "title": "Como adquirir o PETROFOLIO?",
+    "content": "As solicitações para obtenção do PETROFOLIO podem ser feitas diretamente no site oficial: . | Acesse: PETROFOLIO | . ",
+    "url": "/docs/faq/#como-adquirir-o-petrofolio",
+    
+    "relUrl": "/docs/faq/#como-adquirir-o-petrofolio"
+  },"91": {
+    "doc": "Perguntas Frequentes",
+    "title": "Como instalar o PETROFOLIO?",
+    "content": "Após obter o instalador do PETROFOLIO, siga o procedimento padrão: . | Execute o arquivo de instalação. | Siga as instruções na tela. | Conclua a instalação e inicie o software. | . ",
+    "url": "/docs/faq/#como-instalar-o-petrofolio",
+    
+    "relUrl": "/docs/faq/#como-instalar-o-petrofolio"
+  },"92": {
+    "doc": "Perguntas Frequentes",
+    "title": "Como ativar o PETROFOLIO para edição e simulação?",
+    "content": "Após a instalação, será necessário ativar a ferramenta: . | Ao abrir o PETROFOLIO, um Código de Registro será gerado. | Envie esse código para o e-mail suporte@petrofolio.net | Você receberá um Código de Ativação, que deve ser inserido no software para liberar todas as funcionalidades. | . ",
+    "url": "/docs/faq/#como-ativar-o-petrofolio-para-edi%C3%A7%C3%A3o-e-simula%C3%A7%C3%A3o",
+    
+    "relUrl": "/docs/faq/#como-ativar-o-petrofolio-para-edição-e-simulação"
+  },"93": {
+    "doc": "Perguntas Frequentes",
+    "title": "Perguntas Frequentes",
+    "content": " ",
+    "url": "/docs/faq/",
+    
+    "relUrl": "/docs/faq/"
+  },"94": {
     "doc": "Histórico de Atualizações",
     "title": "Histórico de Atualizações",
     "content": "O Histórico de Atualizações do PETROFÓLIO fornece um registro detalhado das versões lançadas, destacando melhorias, novas funcionalidades, correções de bugs e otimizações de desempenho. ",
     "url": "/docs/release-notes/",
     
     "relUrl": "/docs/release-notes/"
-  },"103": {
+  },"95": {
     "doc": "Histórico de Atualizações",
     "title": "Release 1.0.9147.3678 (26/01/2025)",
     "content": "Primeira versão oficial do PETROFÓLIO!** Esta versão inicial marca o lançamento do software, trazendo a base sólida para análises econômicas no setor de Exploração &amp; Produção (E&amp;P). ",
     "url": "/docs/release-notes/#release-1091473678-26012025",
     
     "relUrl": "/docs/release-notes/#release-1091473678-26012025"
+  },"96": {
+    "doc": "Estrutura do Portfólio",
+    "title": "Estrutura do Portfólio",
+    "content": "Os tutoriais a seguir oferecem um guia prático para criar os diversos componentes de um portfólio de E&amp;P. ",
+    "url": "/docs/tutorials/portfolio-structure/",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/"
+  },"97": {
+    "doc": "Estrutura do Portfólio",
+    "title": "Sumário",
+    "content": ". | Criando um Portfólio | Criando um Bloco | Criando um Campo | Criando um Projeto | Criando um Subportfólio | Criando um Programa | . ",
+    "url": "/docs/tutorials/portfolio-structure/#sum%C3%A1rio",
+    
+    "relUrl": "/docs/tutorials/portfolio-structure/#sumário"
+  },"98": {
+    "doc": "Análises Econômicas",
+    "title": "Análises Econômicas",
+    "content": "Os tomadores de decisão e os gestores de portfólio de ativos de E&amp;P enfrentam desafios estratégicos cruciais ao avaliar investimentos no setor de Exploração &amp; Produção (E&amp;P). Dois dos principais questionamentos nesse processo são: . | Em quais oportunidades de negócio a companhia deve investir? | Como captar recursos para viabilizar esses investimentos? | . A primeira questão envolve uma decisão econômica, ou seja, a análise da viabilidade e rentabilidade do projeto. O objetivo é determinar se o valor gerado supera o capital necessário para sua execução. Se a resposta for positiva, a próxima etapa envolve uma decisão financeira, que consiste em definir a melhor estratégia de captação e alocação de recursos. Para os gestores de portfólio, o desafio se amplia, pois é necessário equilibrar investimentos entre múltiplos ativos, maximizando o retorno global e garantindo uma alocação eficiente de capital. Isso exige uma visão integrada dos projetos, permitindo priorizar investimentos conforme seu potencial de geração de valor e risco associado. Assim, a separação entre análise econômica e financeira é essencial para uma tomada de decisão estruturada. Primeiro, avalia-se a viabilidade individual de cada projeto; depois, define-se a melhor forma de financiamento e distribuição de capital dentro do portfólio. Os tutoriais desta seção apresentam uma abordagem prática para explorar as funcionalidades do PETROFOLIO, auxiliando tanto tomadores de decisão quanto gestores de portfólio na avaliação econômica de projetos de E&amp;P. Aqui, você aprenderá a aplicar diferentes metodologias de análise para estimar a viabilidade econômica de investimentos, comparar cenários e aprimorar a tomada de decisão. ",
+    "url": "/docs/tutorials/economic-analysis/",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/"
+  },"99": {
+    "doc": "Análises Econômicas",
+    "title": "Abordagem Integrada de Análises Econômicas",
+    "content": "O PETROFOLIO organiza suas análises econômicas de forma integrada, onde cada método complementa o anterior, proporcionando uma visão mais abrangente e realista dos projetos de E&amp;P. As análises seguem uma sequência lógica, permitindo uma compreensão progressiva dos riscos e retornos envolvidos: . | Análise Determinística – Avalia a viabilidade do projeto considerando um cenário fixo, com valores estáticos para todas as variáveis críticas. Essa análise fornece um ponto de partida, permitindo calcular indicadores econômicos como VPL, TIR e Payback com base em um único estado da natureza. | Análise de Sensibilidade – Identifica as variáveis do projeto que exercem maior impacto nos indicadores econômicos. Por meio da variação controlada de premissas (como preço do petróleo, CAPEX, OPEX e taxa de desconto), essa análise permite compreender quais fatores representam os principais riscos para a viabilidade do projeto. | Análise Probabilística – Aplicada às variáveis com maior incerteza, identificadas na Análise de Sensibilidade. Utiliza a Simulação de Monte Carlo para calcular distribuições de probabilidade dos indicadores financeiros, fornecendo percentis como P10, P50 e P90, que quantificam riscos e probabilidades de sucesso do projeto. | Análises Complementares – Inclui avaliações estratégicas específicas, como análise de parcerias e certificação de reservas. Essas análises podem ser configuradas como parâmetros adicionais nas três análises anteriores, permitindo a incorporação de efeitos fiscais, jurídicos e operacionais em projetos compartilhados ou com diferentes regimes de concessão. | Análises Personalizadas – Permite a realização de estudos avançados não contemplados pelas análises anteriores. Inclui metodologias como Análise de Opções Reais, Análise de Cenários e Otimização de Portfólio, oferecendo maior flexibilidade para modelagem de investimentos complexos e definição de estratégias para maximização do valor do portfólio. | . Cada um desses métodos contribui para uma avaliação econômica mais robusta e fundamentada, fornecendo suporte essencial para a tomada de decisões estratégicas no setor de petróleo e gás. ",
+    "url": "/docs/tutorials/economic-analysis/#abordagem-integrada-de-an%C3%A1lises-econ%C3%B4micas",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/#abordagem-integrada-de-análises-econômicas"
+  },"100": {
+    "doc": "Análises Econômicas",
+    "title": "Análise Financeira no PETROFOLIO",
+    "content": "Além da avaliação econômica, o PETROFOLIO pode ser utilizado para realizar a Análise Financeira, permitindo ajustes nas premissas e dados para capturar a estrutura de financiamento dos investimentos. Isso inclui: . | Modificação da TMA (Taxa Mínima de Atratividade) para refletir a estrutura de capital da empresa, considerando diferentes fontes de financiamento. | Inclusão de benefícios tributários associados a empréstimos no cálculo de Imposto de Renda e Contribuição Social, ajustando os impactos fiscais do financiamento. | Consideração de estratégias de alavancagem para avaliar o efeito da dívida na rentabilidade do projeto. | . Esses ajustes possibilitam uma visão mais completa da viabilidade dos investimentos, integrando tanto a perspectiva econômica quanto a financeira, essenciais para uma gestão estratégica eficiente dos ativos de E&amp;P. ",
+    "url": "/docs/tutorials/economic-analysis/#an%C3%A1lise-financeira-no-petrofolio",
+    
+    "relUrl": "/docs/tutorials/economic-analysis/#análise-financeira-no-petrofolio"
+  },"101": {
+    "doc": "Tutoriais",
+    "title": "Tutoriais",
+    "content": "Os tutoriais oferecem uma abordagem prática para compreender e dominar as funcionalidades do PETROFOLIO. ",
+    "url": "/docs/tutorials/",
+    
+    "relUrl": "/docs/tutorials/"
+  },"102": {
+    "doc": "Tutoriais",
+    "title": "Sumário",
+    "content": ". | Estrutura do Portfólio | Análises Econômicas | Configurações do Sistema | Arquitetura do Sistema | . ",
+    "url": "/docs/tutorials/#sum%C3%A1rio",
+    
+    "relUrl": "/docs/tutorials/#sumário"
+  },"103": {
+    "doc": "Estudos de Casos",
+    "title": "Estudos de Casos",
+    "content": " ",
+    "url": "/docs/case-studies/",
+    
+    "relUrl": "/docs/case-studies/"
   },"104": {
     "doc": "Início",
     "title": "Início",
