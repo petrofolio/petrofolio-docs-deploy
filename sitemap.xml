@@ -31,10 +31,13 @@
 <loc>https://docs.petrofolio.net/docs/tutorials/economic-analysis/deterministic-analysis/</loc>
 </url>
 <url>
-<loc>https://docs.petrofolio.net/docs/conceptual-guide/</loc>
+<loc>https://docs.petrofolio.net/docs/case-studies/</loc>
 </url>
 <url>
 <loc>https://docs.petrofolio.net/docs/advanced-guide/</loc>
+</url>
+<url>
+<loc>https://docs.petrofolio.net/docs/conceptual-guide/</loc>
 </url>
 <url>
 <loc>https://docs.petrofolio.net/docs/faq/</loc>
@@ -50,9 +53,6 @@
 </url>
 <url>
 <loc>https://docs.petrofolio.net/docs/tutorials/</loc>
-</url>
-<url>
-<loc>https://docs.petrofolio.net/docs/case-studies/</loc>
 </url>
 <url>
 <loc>https://docs.petrofolio.net/</loc>
